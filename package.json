@@ -1,0 +1,20 @@
+{
+  "name": "spotify-helper",
+  "version": "0.0.0",
+  "description": "Help me to mark a bunch of podcasts as \"already played\" since I don't like tapping the same thing a bunch.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --inspect src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexlee-dev/spotify-helper.git"
+  },
+  "author": "Alex Lee <www.alexlee.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexlee-dev/spotify-helper/issues"
+  },
+  "homepage": "https://github.com/alexlee-dev/spotify-helper#readme"
+}
